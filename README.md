@@ -11,7 +11,7 @@ Convenience. It keeps my game setups organized and gets me into the game faster:
 - one setup per "world box": a Minecraft version, a mod loader (Fabric, Quilt, NeoForge or Forge) and its own mods
 - launches straight into a singleplayer world or a server (Quick Play)
 - installs mods from Modrinth for the right version and loader
-- a "base" setup per version with my performance mods
+- an "Optimized" setup per version with my performance mods
 
 ## Who uses it
 
@@ -32,11 +32,11 @@ Only me, on my own PC, with my own Microsoft accounts.
 
 ## What it does not do
 
-- No offline/cracked accounts or account sharing
+- No cracked accounts or account sharing: playing always requires owning Minecraft: Java Edition
 - No game modifications to bypass anti-cheat, no server exploits
 - Game files come only from Mojang's official servers
 
-Before this app is approved, a development test mode can start singleplayer with the Java profile already signed in on my official Minecraft Launcher. Multiplayer and chat are disabled in that mode.
+Until this app is approved, I test the launcher with offline test accounts. They only unlock on a PC where Java Edition is owned (a Java profile signed in to the official Minecraft Launcher, or a Microsoft account added to this launcher), and they are singleplayer only: multiplayer, chat, servers and Realms are disabled for them.
 
 ## Details
 
